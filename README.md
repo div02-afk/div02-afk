@@ -8,7 +8,7 @@
 <a href="https://twitter.com/divyamssharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyamssharma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharma-divyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharma-divyam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/divyam_7379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyam_7379" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/div02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="div02" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/div_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="div02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
