@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyam Sharma</h1>
 <h3 align="center">Trying a bit of everything</h3>
 
-- 📫 How to reach me **divyam.7379@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
